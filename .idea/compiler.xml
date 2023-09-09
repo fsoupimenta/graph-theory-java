@@ -9,8 +9,5 @@
         <module name="grafosproject" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="grafosproject" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>
